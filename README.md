@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi my name is Camillie and I'm a Full Stack Developer 👋
+## 💫 About Me:
+✨ I'm 21 years old and I'm currently studying Software Engineering<br>💻 I have 2 years of experience in Full Stack development of applications with different technologies and I have participated in technological coding events
 
-<!--
-**camillie15/camillie15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats:
+<p align="center">
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=camillie15&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillie15&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="160" />
+  </div>
+</p>
 
-Here are some ideas to get you started:
+[![](https://visitcount.itsvg.in/api?id=camillie15&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
