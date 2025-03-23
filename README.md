@@ -1,4 +1,4 @@
-## Hi my name is Camillie and I'm a Full Stack Developer 👋
+## Hi my name is Camillie 👋
 ## 💫 About Me:
 ✨ I'm 21 years old and I'm currently studying Software Engineering<br>💻 I have 2 years of experience in Full Stack development of applications with different technologies and I have participated in technological coding events
 
